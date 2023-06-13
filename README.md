@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fvcp2-1.fna.fbcdn.net/v/t39.30808-6/242869378_4501584306546219_7345975007746337524_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH3cjXllU1Sefn3bAbZpVqp5_4SlrRSX2bn_hKWtFJfZjasMNJwl3BLhLY6OMOxpeX2kAUJGGrwUDlTpFZZmJx2&_nc_ohc=49X0sDRtz-YAX_WEoK3&_nc_oc=AQn2svR4IuboWxDGl0fH7Nbmhp9D4Ocw3hqYf30ldT4c7refx2SWjc9PUdmlQc9vFpYFSHB0Cm_a1OLX58hBahOi&_nc_ht=scontent.fvcp2-1.fna&oh=00_AfAla9Jcd4oS4QqSPEoLJODXrPvZzi5EqIT73CI6d8y98A&oe=648D2A31"  />
+<img align="right" height="300" src="https://scontent.fvcp2-1.fna.fbcdn.net/v/t39.30808-6/242869378_4501584306546219_7345975007746337524_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH3cjXllU1Sefn3bAbZpVqp5_4SlrRSX2bn_hKWtFJfZjasMNJwl3BLhLY6OMOxpeX2kAUJGGrwUDlTpFZZmJx2&_nc_ohc=49X0sDRtz-YAX_WEoK3&_nc_oc=AQn2svR4IuboWxDGl0fH7Nbmhp9D4Ocw3hqYf30ldT4c7refx2SWjc9PUdmlQc9vFpYFSHB0Cm_a1OLX58hBahOi&_nc_ht=scontent.fvcp2-1.fna&oh=00_AfAla9Jcd4oS4QqSPEoLJODXrPvZzi5EqIT73CI6d8y98A&oe=648D2A31"  />
 
 ###
 
@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/math3009/math3009/output/snake.svg" alt="Snake animation" />
+
 
 ###
